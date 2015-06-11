@@ -1,3 +1,4 @@
+/// <reference path="../../../typings/jasmine/jasmine.d.ts"/>
 /**
  * Tests sit right alongside the file they are testing, which is more intuitive
  * and portable than separating `src` and `test` directories. Additionally, the
